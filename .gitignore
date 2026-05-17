@@ -1,0 +1,4 @@
+team_6.parquet
+*.parquet
+__pycache__/
+*.pyc
